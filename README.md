@@ -6,12 +6,14 @@ This Project contains 10 programing tasks (my Project for IT Professional Traini
 Scottish Athletics is running trials for 400 metre athletes. There are four groups of eight athletes. The runners run two separate laps and their times are recorded as they complete each of the two laps. Any runner who completes either of the two laps in under 50 seconds progresses to the next stage of selection. The runner from each of the groups with the fastest lap will receive a medal of commendation.
 
 The task is:
+
   to write a program for one of the groups of female runners
   find the runners who will progress to the next stage
   find the runner with the fastest lap
   Save this information to a file. You can assume that no two runners have the same name.
 
 The program requires the following inputs:
+
   a valid number of runners
   the first and second name of each runner
   the time taken to run the first lap
@@ -34,6 +36,7 @@ Implement and test a program to ask a user 10 addition questions using randomly 
 
 ## Task 4
 Implement and test a program to input a sentence, apply a code to each character (except spaces) and output the coded message to the screen. 
+
 For example, A becomes Y, B becomes Z, etc and thus Hello World would be coded as Fcjjm Umpjb.
 
 ## Task 5
@@ -45,6 +48,7 @@ Implement and test a program to assign grades to exam marks for a class of 15 st
     4. more than 45% is a D
     5. less than 45% is a fail
 The program requires the highest possible score for an exam, each student's name (first name and surname) and each student’s mark.
+
 The program should then:
 
     1. calculate the percentage mark for each student
