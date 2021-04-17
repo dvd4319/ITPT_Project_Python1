@@ -70,7 +70,7 @@ Implement and test a program to create a list of 35 random, upper case letters a
 
 Implement and test a program to enter and validate a password. The program should do the following:
 
-1. Prompt the user to enter their password that can contain letters and numbers and be at least six characters long.
-2. If the password is correct, it should display a welcome message.
-3. If not, it should notify the user that their password was entered wrongly, they should be warned that they will be locked out of the system after three attempts and let them try again, but only allow three tries.
-4. If the user makes three incorrect attempts they should receive a suitable message.
+  1. Prompt the user to enter their password that can contain letters and numbers and be at least six characters long.
+  2. If the password is correct, it should display a welcome message.
+  3. If not, it should notify the user that their password was entered wrongly, they should be warned that they will be locked out of the system after three attempts and let them try again, but only allow three tries.
+  4. If the user makes three incorrect attempts they should receive a suitable message.
