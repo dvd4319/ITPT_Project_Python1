@@ -2,7 +2,7 @@
 
 This Project contains 10 programing tasks (my Project for IT Professional Training (ITPT) School). 
 
-## Task 1
+## Task 1 - Scottish Athletics
 Scottish Athletics is running trials for 400 metre athletes. There are four groups of eight athletes. The runners run two separate laps and their times are recorded as they complete each of the two laps. Any runner who completes either of the two laps in under 50 seconds progresses to the next stage of selection. The runner from each of the groups with the fastest lap will receive a medal of commendation.
 
 The task is:
@@ -21,7 +21,7 @@ The program requires the following inputs:
   The output from the program should display the fastest runner, each runner’s name
   and indicate whether they will progress to the next stage of selection.
 
-## Task 2
+## Task 2 - Survey about local vacility
 Implement and test a program which will allow users to complete a survey about local facilities. The survey has 15 questions with different possible responses — some
 numerical answers and some text answers. Only one response is possible for each question. Every question has an option of ‘Do not know’. You should use a record structure to store details of the survey questions. There should also be an option in the program to calculate the total number of ‘Do not know’ responses.
 
@@ -34,12 +34,12 @@ Implement and test a program to ask a user 10 addition questions using randomly 
 2. keep a total of the number of correct answers
 3. repeat the quiz until the user achieves more than seven correct
 
-## Task 4
+## Task 4 - Coded message
 Implement and test a program to input a sentence, apply a code to each character (except spaces) and output the coded message to the screen. 
 
 For example, A becomes Y, B becomes Z, etc and thus Hello World would be coded as Fcjjm Umpjb.
 
-## Task 5
+## Task 5 - Assign grades
 Implement and test a program to assign grades to exam marks for a class of 15 students, using the following criteria:
 
     1. more than 70% is an A
@@ -56,3 +56,21 @@ The program should then:
     3. display each student’s initials, percentage and grade in the sorted order
     4. display the total numbers of As, Bs, Cs, Ds and fails
 
+## Task 6 - hockey teams
+
+Implement and test a program to calculate the number of points gained by five hockey teams, given the number of wins, draws and lost games, assuming a win is worth 3 points, a draw 1 point, and no points for a lost game.
+
+You should create your own test data and output the results on screen, in a suitable format.
+
+## Task 7 - Random list
+
+Implement and test a program to create a list of 35 random, upper case letters and then stores the list in an array. You should then sort the list into order, A to Z, and output the character in the middle of the list.
+
+## Task 8 - Enter and validate a password
+
+Implement and test a program to enter and validate a password. The program should do the following:
+
+1. Prompt the user to enter their password that can contain letters and numbers and be at least six characters long.
+2. If the password is correct, it should display a welcome message.
+3. If not, it should notify the user that their password was entered wrongly, they should be warned that they will be locked out of the system after three attempts and let them try again, but only allow three tries.
+4. If the user makes three incorrect attempts they should receive a suitable message.
