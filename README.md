@@ -14,12 +14,13 @@ The task is:
 
 The program requires the following inputs:
 
-  a valid number of runners
-  the first and second name of each runner
-  the time taken to run the first lap
-  the time taken to run the second lap
-  The output from the program should display the fastest runner, each runner’s name
-  and indicate whether they will progress to the next stage of selection.
+  	a valid number of runners
+  	the first and second name of each runner
+  	the time taken to run the first lap
+  	the time taken to run the second lap
+  
+  
+ The output from the program should display the fastest runner, each runner's name and indicate whether they will progress to the next stage of selection.
 
 ## Task 2 - Survey about local vacility
 Implement and test a program which will allow users to complete a survey about local facilities. The survey has 15 questions with different possible responses — some
@@ -30,9 +31,9 @@ You should test the program with five users.
 ## Task 3
 Implement and test a program to ask a user 10 addition questions using randomly created numbers between 10 and 30. The program should:
 
-1. check if each of the user’s answer is correct
-2. keep a total of the number of correct answers
-3. repeat the quiz until the user achieves more than seven correct
+	1. check if each of the user’s answer is correct
+	2. keep a total of the number of correct answers
+	3. repeat the quiz until the user achieves more than seven correct
 
 ## Task 4 - Coded message
 Implement and test a program to input a sentence, apply a code to each character (except spaces) and output the coded message to the screen. 
