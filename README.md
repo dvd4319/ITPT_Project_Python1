@@ -1,4 +1,4 @@
-# ITPT_Project_Python1
+# Project for IT Professional Training (ITPT) School in Edinburgh
 
 This Project contains 10 programing tasks (my Project for IT Professional Training (ITPT) School). 
 
