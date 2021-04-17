@@ -1,6 +1,6 @@
 # Project for IT Professional Training ( [ITPT](https://www.itpt.co.uk/)) School in Edinburgh
 
-This Project contains 10 programing tasks (my Practical Skills Project for IT Professional Training (ITPT) School [ITPT address](https://www.itpt.co.uk/)). 
+This Project contains 10 programing tasks (my Practical Skills Project for IT Professional Training (ITPT) School - [ITPT address](https://www.itpt.co.uk/)). 
 
 ## Task 1 - Scottish Athletics
 
