@@ -3,6 +3,7 @@
 This Project contains 10 programing tasks (my Project for IT Professional Training (ITPT) School). 
 
 ## Task 1 - Scottish Athletics
+
 Scottish Athletics is running trials for 400 metre athletes. There are four groups of eight athletes. The runners run two separate laps and their times are recorded as they complete each of the two laps. Any runner who completes either of the two laps in under 50 seconds progresses to the next stage of selection. The runner from each of the groups with the fastest lap will receive a medal of commendation.
 
 The task is:
@@ -29,6 +30,7 @@ Implement and test a program which will allow users to complete a survey about l
 You should test the program with five users.
 
 ## Task 3
+
 Implement and test a program to ask a user 10 addition questions using randomly created numbers between 10 and 30. The program should:
 
 	1. check if each of the user’s answer is correct
@@ -36,11 +38,11 @@ Implement and test a program to ask a user 10 addition questions using randomly 
 	3. repeat the quiz until the user achieves more than seven correct
 
 ## Task 4 - Coded message
-Implement and test a program to input a sentence, apply a code to each character (except spaces) and output the coded message to the screen. 
 
-For example, A becomes Y, B becomes Z, etc and thus Hello World would be coded as Fcjjm Umpjb.
+Implement and test a program to input a sentence, apply a code to each character (except spaces) and output the coded message to the screen.  For example, A becomes Y, B becomes Z, etc and thus Hello World would be coded as Fcjjm Umpjb.
 
 ## Task 5 - Assign grades
+
 Implement and test a program to assign grades to exam marks for a class of 15 students, using the following criteria:
 
     1. more than 70% is an A
