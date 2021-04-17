@@ -31,3 +31,22 @@ Implement and test a program to ask a user 10 addition questions using randomly 
 1. check if each of the user’s answer is correct
 2. keep a total of the number of correct answers
 3. repeat the quiz until the user achieves more than seven correct
+
+## Task 4
+Implement and test a program to input a sentence, apply a code to each character (except spaces) and output the coded message to the screen. 
+For example, A becomes Y, B becomes Z, etc and thus Hello World would be coded as Fcjjm Umpjb.
+
+## Task 5
+Implement and test a program to assign grades to exam marks for a class of 15 students, using the following criteria:
+    1. more than 70% is an A
+    2. more than 60% is a B
+    3. over 50% is a C
+    4. more than 45% is a D
+    5. less than 45% is a fail
+The program requires the highest possible score for an exam, each student's name (first name and surname) and each student’s mark.
+The program should then:
+    1. calculate the percentage mark for each student
+    2. sort the percentages into order from highest to lowest
+    3. display each student’s initials, percentage and grade in the sorted order
+    4. display the total numbers of As, Bs, Cs, Ds and fails
+
