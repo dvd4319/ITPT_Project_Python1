@@ -74,4 +74,25 @@ Implement and test a program to enter and validate a password. The program shoul
   2. If the password is correct, it should display a welcome message.
   3. If not, it should notify the user that their password was entered wrongly, they should be warned that they will be locked out of the system after three attempts and let them try again, but only allow three tries.
   4. If the user makes three incorrect attempts they should receive a suitable message.
-  
+
+
+##  Task 9 - Random array
+
+Implement and test a program in your programming language which does the following:
+
+    1. Fills an array with 20 random integers between 1 and 10.
+    2. Prints the array contents to screen.
+    3. Finds and displays the maximum and minimum values in the array.
+    4. Asks the user for an integer between 1 and 10 using input validation and displays how many times it occurs in the array.
+    
+## Task 10 - Simulate a simulate game
+
+Implement and test a program to simulate a simple game. Your program should do the following:
+
+	1. Store six colours in an external file (Note: these colours can be your choice of words or graphics).
+	2. Create three arrays and input the colours to each of the arrays.
+	3. For each of the three arrays, create a random number between 1 and 6 and output that colour to the screen.
+	4. If two of the colours match, the user wins 50 pence.
+	5. If all three colours match, the user wins £1.
+	6. Allow the user to have five ‘shots’ and keep track of their winnings.
+	7. Display suitable messages on screen.
