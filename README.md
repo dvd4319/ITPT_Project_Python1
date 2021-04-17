@@ -88,7 +88,7 @@ Implement and test a program in your programming language which does the followi
     3. Finds and displays the maximum and minimum values in the array.
     4. Asks the user for an integer between 1 and 10 using input validation and displays how many times it occurs in the array.
     
-## Task 10 - Simulate a simulate game
+## Task 10 - Simulate a simple game
 
 Implement and test a program to simulate a simple game. Your program should do the following:
 
