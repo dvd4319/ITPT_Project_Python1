@@ -1,0 +1,87 @@
+Please insert the number of students: 15
+Please insert the highest possible score for the exam: 100
+-----------------------------------------
+First Name of student 1: Ana
+Second_Name of student 1: Anton
+Pleae insert the score of the student 1: 75
+---------------------------------------
+First Name of student 2: Bianca 
+Second_Name of student 2: Bratu 
+Pleae insert the score of the student 2: 23
+---------------------------------------
+First Name of student 3: Catalin
+Second_Name of student 3: Craiu
+Pleae insert the score of the student 3: 45
+---------------------------------------
+First Name of student 4: Dana
+Second_Name of student 4: Dumitru
+Pleae insert the score of the student 4: 88
+---------------------------------------
+First Name of student 5: Elena
+Second_Name of student 5: Enescu
+Pleae insert the score of the student 5: 65
+---------------------------------------
+First Name of student 6: Florin
+Second_Name of student 6: Farfuridi
+Pleae insert the score of the student 6: 46
+---------------------------------------
+First Name of student 7: Gina
+Second_Name of student 7: Georgescu
+Pleae insert the score of the student 7: 48
+---------------------------------------
+First Name of student 8: Horia
+Second_Name of student 8: Haralambie
+Pleae insert the score of the student 8: 90
+---------------------------------------
+First Name of student 9: Ion
+Second_Name of student 9: Ion
+Pleae insert the score of the student 9: 69
+---------------------------------------
+First Name of student 10: Jeana
+Second_Name of student 10: Joi
+Pleae insert the score of the student 10: 55
+---------------------------------------
+First Name of student 11: Kalimman
+Second_Name of student 11: Kappa
+Pleae insert the score of the student 11: 59
+---------------------------------------
+First Name of student 12: Laura
+Second_Name of student 12: Lavric
+Pleae insert the score of the student 12: 60
+---------------------------------------
+First Name of student 13: Maria
+Second_Name of student 13: Moraru
+Pleae insert the score of the student 13: 70
+---------------------------------------
+First Name of student 14: Nicu
+Second_Name of student 14: Nastase
+Pleae insert the score of the student 14: 75
+---------------------------------------
+First Name of student 15: Oana
+Second_Name of student 15: Olaru
+Pleae insert the score of the student 15: 62
+---------------------------------------
+---------------------------------------------
+############ Class Results  ###############
+crt  Initials       Percentage       Marks
+1    HH                90%             A
+2    DD                88%             A
+3    NN                75%             A
+4    AA                75%             A
+5    MM                70%             B
+6    II                69%             B
+7    EE                65%             B
+8    OO                62%             B
+9    LL                60%             C
+10   KK                59%             C
+11   JJ                55%             C
+12   GG                48%             D
+13   FF                46%             D
+14   CC                45%             D
+15   BB                23%           Fails
+---------------------------------------------
+Number of A passes:  4
+Number of B passes:  4
+Number of C passes:  3
+Number of D passes:  3
+Number of Fails passes:  1

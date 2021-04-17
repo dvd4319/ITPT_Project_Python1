@@ -15,12 +15,12 @@ The program should then:
     display each student’s initials, percentage and grade in the sorted order
     display the total numbers of As, Bs, Cs, Ds and fails
 """ 
-
+#The 'csv' module implements classes to read and write tabular data in CSV format.
 import csv
-import operator 
-#import pandas as pd
+# The 'operator' module exports a set of efficient functions corresponding to the intrinsic operators of Python. For example, operator.add(x, y)
+import operator
 import os
-# From 'file Student.py' import the class 'Student'
+# From module 'Student.py' import the class 'Student'
 from Student import Student
 
 # delate old file 
@@ -59,7 +59,7 @@ for i in range(number_students):
 
 print("---------------------------------------------")
 print("############ Class Results  ###############")
-initials = []; mark = []; percent = []; count = 0;
+initials = []; mark = []; percent = []; 
 with open("class_results.csv", "r") as csv_file:
     # read csv file 
     csv_reader = csv.reader(csv_file, delimiter=',');
@@ -81,7 +81,7 @@ for i in range(number_students):
     print(f"{i+1 : <5}{initials[i] : <10}{percent[i] : ^20}{mark[i] : ^10}")
 # count the number of marks 
 print("---------------------------------------------")
-letters = ['A', 'B', 'C', 'D', 'E']
+letters = ['A', 'B', 'C', 'D', 'Fails']
 for letter in letters: 
     print(f"Number of {letter} passes:  {mark.count(letter)}")
 

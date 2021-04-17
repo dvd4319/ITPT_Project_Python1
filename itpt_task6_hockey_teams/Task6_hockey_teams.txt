@@ -1,0 +1,3 @@
+Task 6 - hockey teams
+Implement and test a program to calculate the number of points gained by five hockey teams, given the number of wins, draws and lost games, assuming a win is worth 3 points, a draw 1 point, and no points for a lost game.
+You should create your own test data and output the results on screen, in a suitable format.

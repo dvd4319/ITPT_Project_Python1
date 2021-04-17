@@ -1,0 +1,7 @@
+Task 3
+Implement and test a program to ask a user 10 addition questions using randomly
+created numbers between 10 and 30. The program should:
+
+1. check if each of the user’s answer is correct
+2. keep a total of the number of correct answers
+3. repeat the quiz until the user achieves more than seven correct

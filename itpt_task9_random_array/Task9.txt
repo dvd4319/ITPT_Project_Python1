@@ -1,0 +1,7 @@
+Task 9
+Implement and test a program in your programming language which does the following:
+    Fills an array with 20 random integers between 1 and 10.
+    Prints the array contents to screen.
+    Finds and displays the maximum and minimum values in the array.
+    Asks the user for an integer between 1 and 10 using input validation and displays how many times it occurs in the array.
+    

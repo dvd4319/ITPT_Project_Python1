@@ -1,0 +1,4 @@
+Task 7
+Implement and test a program to create a list of 35 random, upper case letters and
+then stores the list in an array. You should then sort the list into order, A to Z, and
+output the character in the middle of the list.

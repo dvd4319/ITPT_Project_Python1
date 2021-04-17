@@ -1,0 +1,5 @@
+Task 4
+Implement and test a program to input a sentence, apply a code to each character
+(except spaces) and output the coded message to the screen.
+For example, A becomes Y, B becomes Z, etc and thus Hello World would be coded
+as Fcjjm Umpjb.

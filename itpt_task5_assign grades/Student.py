@@ -8,25 +8,25 @@ class Student:
         self.second_name = second_name; 
     
     def percent(self):
-        pss = (self.score_student/100)*self.highest_score;
+        pss = round((self.score_student/100)*self.highest_score);
         return pss;
 
     def mark1(self, pss):
         # declare an empty string 'mark'
         mark = ' ';
         if (pss > 0 and pss < 45) :
-            mark = 'E';
+            mark = 'Fails';
             return mark;
-        elif (self.score_student >= 45 and  self.score_student <= 50):
+        elif (pss >= 45 and  pss <= 50):
             mark = 'D';
             return mark
-        elif (self.score_student > 50 and  self.score_student <= 60):
+        elif (pss > 50 and  pss <= 60):
             mark = 'C';
             return mark;
-        elif (self.score_student > 60 and  self.score_student <= 70):
+        elif (pss > 60 and  pss <= 70):
             mark = 'B';
             return mark;
-        elif (self.score_student > 70 and  self.score_student <= 100):
+        elif (pss > 70 and  pss <= 100):
             mark = 'A';
             return mark;
         else:
@@ -37,7 +37,7 @@ class Student:
         firstName = self.first_name[0];
         secondName = self.second_name[0]; 
         # the name is written using Upper letters :) 
-        FSN = firstName.upper() +secondName.upper();
+        FSN = firstName.upper() + secondName.upper();
         return FSN;
 
 
