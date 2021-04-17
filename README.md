@@ -18,3 +18,16 @@ The program requires the following inputs:
   the time taken to run the second lap
   The output from the program should display the fastest runner, each runner’s name
   and indicate whether they will progress to the next stage of selection.
+
+## Task 2
+Implement and test a program which will allow users to complete a survey about local facilities. The survey has 15 questions with different possible responses — some
+numerical answers and some text answers. Only one response is possible for each question. Every question has an option of ‘Do not know’. You should use a record structure to store details of the survey questions. There should also be an option in the program to calculate the total number of ‘Do not know’ responses.
+
+You should test the program with five users.
+
+## Task 3
+Implement and test a program to ask a user 10 addition questions using randomly created numbers between 10 and 30. The program should:
+
+1. check if each of the user’s answer is correct
+2. keep a total of the number of correct answers
+3. repeat the quiz until the user achieves more than seven correct
